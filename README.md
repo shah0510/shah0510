@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **DSA and Mern Stack**
 
+- 💬 Ask me about **Mern and MongoDB**
+
 - 📫 How to reach me **meetshah0510@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14_fGm7tqoMJboSicQehVuew8NwaPE-4N/view?usp=drivesdk](https://drive.google.com/file/d/14_fGm7tqoMJboSicQehVuew8NwaPE-4N/view?usp=drivesdk)
