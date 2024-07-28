@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **DSA and Mern Stack**
 
+- 👨‍💻 All of my projects are available at [https://portfolio-meet.vercel.app](https://portfolio-meet.vercel.app)
+
 - 💬 Ask me about **Mern and MongoDB**
 
 - 📫 How to reach me **meetshah0510@gmail.com**
