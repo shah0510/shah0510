@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shah0510&label=Profile%20views&color=0e75b6&style=flat" alt="shah0510" /> </p>
 
-- 🔭 I’m currently working at [Milagrow Universe](https://milagrouniverse.com)
+- 🔭 I’m am director at Larios Ceramica Pvt Ltd
 
 - 🌱 I’m currently learning **DSA and Mern Stack**
 
